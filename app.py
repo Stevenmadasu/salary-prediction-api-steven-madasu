@@ -14,7 +14,7 @@ def home():
     """Landing page for the Salary Prediction API"""
     return (
         "<h1>Salary Prediction API</h1>"
-        "<p>Hello, my name is Bob. This salary prediction API is running successfully.</p>"
+        "<p>Hello, my name is Steven Madasu. This salary prediction API is running successfully.</p>"
         "<p>BAIS:3300 - Digital Product Development</p>"
     )
 

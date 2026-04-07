@@ -5,7 +5,7 @@
 Flask API that serves a trained Random Forest salary prediction model.
 
 ### Live Deployment
-🌐 **Azure App Service**: https://salary-predict-bob.azurewebsites.net
+🌐 **Azure App Service**: https://salary-predict-smadasu.azurewebsites.net
 
 ### Endpoints
 
@@ -44,4 +44,4 @@ Accepts JSON payload and returns predicted salary.
 Deployed to Azure App Service (Python 3.12, F1 Free tier) with gunicorn.
 
 ### Author
-Bob
+Steven Madasu
